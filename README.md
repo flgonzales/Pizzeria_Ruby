@@ -7,3 +7,12 @@ In this exercise you're going to make an application through which a customer ca
 ───────────────────────────────────
 
 I used Arrays, Post and Simple calculations. Aftwards I included *sprintf* to be sure that discount for larger orders round to two digits after decimal point.
+
+───────────────────────────────────
+
+Ruby version 2.2.5
+
+Start with:
+```
+ruby pizzeria.rb
+```
